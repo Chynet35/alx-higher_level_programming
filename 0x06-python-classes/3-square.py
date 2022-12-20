@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 # 0-square.py by Enemuo Chioma
 """A module that defines a square """
